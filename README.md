@@ -195,7 +195,7 @@ I believe the best way to learn software engineering is not only by watching tut
   </a>
 
   <!-- Replace YOUR-LINKEDIN-USERNAME with your actual LinkedIn username -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="https://www.linkedin.com/in/md-fahmidur-rahman-arnob/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>

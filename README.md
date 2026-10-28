@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fahmidur Arnob
+# 👋 Hi, I'm Fahmidur Rahman Arnob
 
 ### 💻 Software Engineering Student | Python & Backend Developer | MERN Practitioner
 

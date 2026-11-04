@@ -1,223 +1,263 @@
- <!--
-  ╔══════════════════════════════════════════════════════╗
-  ║          FAHMIDUR ARNOB | GITHUB PROFILE             ║
-  ║               MODERN TECH PORTFOLIO                  ║
-  ╚══════════════════════════════════════════════════════╝
+<!--
+╔════════════════════════════════════════════════════════════╗
+║          FAHMIDUR ARNOB // CYBERPUNK EDITION               ║
+║                 PURPLE NEON INTERFACE                      ║
+╚════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:020617,50:0B3D91,100:2563EB&text=FAHMIDUR%20ARNOB&fontSize=55&fontColor=FFFFFF&fontAlignY=45&desc=Building%20Ideas%20Into%20Software&descSize=18&descAlignY=65&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&text=FAHMIDUR%20ARNOB&fontSize=55&fontColor=E9D5FF&stroke=A855F7&strokeWidth=2&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%7C%20BACKEND%20%7C%20FULL%20STACK&descSize=13&descColor=C4B5FD&descAlignY=70&color=0:090014,50:240046,100:3C096C" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Python+%26+Backend+Development;MERN+Stack+Practitioner;Exploring+TypeScript+%26+Modern+Web+Technologies;Building+Projects+%7C+Learning+%7C+Growing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=900&color=C084FC&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Python+%26+Backend+Developer;MERN+Stack+Practitioner;Exploring+TypeScript+%26+MongoDB;Turning+Ideas+Into+Working+Software" />
 
 <br/>
 
 <a href="https://github.com/fahmidur-rahman-arnob">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=E9D5FF" />
 </a>
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=fahmidur-rahman-arnob&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=fahmidur-rahman-arnob&label=PROFILE+VISITORS&color=9333EA&style=flat-square" />
 
 </div>
 
 ---
 
-## `01` / About Me
+<div align="center">
 
-<img align="right" width="260" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" />
+### ◈ SYSTEM PROFILE // 001
 
-Hey! I'm **Fahmidur Arnob**, a Software Engineering student passionate about software development, backend engineering, and building practical applications.
+`INITIALIZING DEVELOPER PROFILE...`
 
-My primary development focus is **Python and Backend Development**. I enjoy working with APIs, automation, application logic, and exploring how software systems work behind the scenes.
+</div>
 
-I'm also actively practicing the **MERN Stack** and exploring TypeScript to expand my full-stack development capabilities.
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Fahmidur Arnob"
+        self.role = "Software Engineering Student"
+        self.primary_focus = ["Python", "Backend Development"]
+        self.practicing = ["MERN Stack", "TypeScript"]
+        self.exploring = ["MongoDB", "SQL", "FastAPI"]
 
-- 🎓 Software Engineering Student
-- 🐍 Python & Backend Development enthusiast
-- ⚡ Exploring FastAPI and REST APIs
-- 🌐 Practicing MERN Stack
-- 🧩 Learning TypeScript and database technologies
-- 🚀 Building practical, project-driven applications
-- 💼 Interested in Backend / Software Engineering opportunities
+    def current_mission(self):
+        return "Build. Learn. Experiment. Improve."
+```
 
-<br clear="right"/>
+I'm passionate about software development, backend engineering, API integration, and building practical applications.
+
+My primary focus is Python and backend development. Alongside that, I'm actively practicing the MERN Stack and exploring modern web technologies.
 
 ---
 
-## `02` / Tech Stack
-
 <div align="center">
 
-### Programming Languages
+### ◈ TECHNOLOGY MATRIX // 002
 
+`TOOLS & TECHNOLOGIES`
+
+</div>
+
+**[ PROGRAMMING LANGUAGES ]**
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" />
+</p>
 
-### Backend & Frameworks
+**[ BACKEND & FRAMEWORKS ]**
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react&theme=dark" />
+</p>
 
-### Databases
+**[ DATABASE SYSTEMS ]**
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql&theme=dark" />
+</p>
 
-### Tools & Development Environment
+**[ DEVELOPMENT ENVIRONMENT ]**
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
-
-</div>
+</p>
 
 ---
 
-## `03` / What I'm Working On
-
 <div align="center">
 
-| Area | Current Focus |
+### ◈ CURRENT OPERATIONS // 003
+
+</div>
+
+| DOMAIN | CURRENT STATUS |
 |:---|:---|
-| 🐍 Python | Problem Solving & Application Development |
-| ⚡ Backend | FastAPI, APIs & Backend Architecture |
-| 🌐 MERN | MongoDB, Express.js, React & Node.js |
-| 🔷 TypeScript | Type-Safe JavaScript Development |
-| 🗄️ Database | MongoDB & SQL Concepts |
-
-</div>
+| Python | Active Development |
+| FastAPI | Learning & Building |
+| Backend Engineering | Primary Focus |
+| MERN Stack | Active Practice |
+| MongoDB | Exploring |
+| TypeScript | Learning |
+| SQL | Learning |
 
 ---
 
-## `04` / Featured Projects
-
 <div align="center">
 
-### ⚡ Projects That Reflect My Journey
+### ◈ PROJECT DATABASE // 004
+
+`SELECT * FROM featured_projects;`
 
 </div>
 
-### 01. TermTorrent
+### 🟣 01 — TermTorrent
 
 **Terminal-Based Download Manager**
 
-A qBittorrent-inspired terminal application focused on task management, persistent storage, and backend application development.
+A qBittorrent-inspired terminal application focused on download task management and backend engineering.
 
-- CLI-based download task management
-- Task creation and status tracking
+- CLI-based task creation and management
+- Task status tracking
 - Persistent task storage
-- Structured application architecture
+- Structured application development
 
-`Python` `CLI` `File Handling` `Backend Engineering`
+`PYTHON` `CLI` `FILE HANDLING` `BACKEND`
 
-[→ Explore Repository](https://github.com/fahmidur-rahman-arnob/TermTorrent)
+[↗ ACCESS REPOSITORY](https://github.com/fahmidur-rahman-arnob/TermTorrent)
 
 ---
 
-### 02. CodeSync
+### 🟣 02 — CodeSync
 
 **API Integration & Backend Development**
 
-A project-driven learning project exploring API communication, HTTP requests, JSON processing, and modular application logic.
+A project-driven development journey focused on external APIs, HTTP communication, JSON processing, and modular Python logic.
 
 - External API integration
 - HTTP response handling
 - JSON data processing
-- Modular Python functions
+- Modular programming
 
-`Python` `Requests` `REST APIs` `JSON`
+`PYTHON` `REQUESTS` `REST API` `JSON`
 
-[→ Explore My GitHub](https://github.com/fahmidur-rahman-arnob)
+[↗ EXPLORE PROJECTS](https://github.com/fahmidur-rahman-arnob)
 
 ---
 
-### 03. DriveDrop
+### 🟣 03 — DriveDrop
 
 **Google Drive Upload Automation**
 
-A Python-based terminal application that uploads local files directly to Google Drive through the Google Drive API.
+A Python-based terminal application that uploads local files directly to Google Drive using its API.
 
 - Google Drive API integration
 - OAuth 2.0 authentication
-- Local file processing
+- Local file handling
 - Original file format preservation
 
-`Python` `Google Drive API` `OAuth 2.0`
+`PYTHON` `GOOGLE DRIVE API` `OAUTH 2.0`
 
-[→ Explore Repository](https://github.com/fahmidur-rahman-arnob/DriveDrop)
+[↗ ACCESS REPOSITORY](https://github.com/fahmidur-rahman-arnob/DriveDrop)
 
 ---
 
-## `05` / Certification
+<div align="center">
+
+### ◈ CERTIFICATION ARCHIVE // 005
+
+</div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PROGRAMMING%20HERO-CERTIFIED-2563EB?style=for-the-badge&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/PROGRAMMING%20HERO-CERTIFICATE-9333EA?style=for-the-badge&logo=bookstack&logoColor=white" />
 
 ### Complete Web Development Course
 
 **Certificate of Completion with Excellence**
 
-<img src="https://img.shields.io/badge/Batch-06-0EA5E9?style=flat-square" />
-<img src="https://img.shields.io/badge/Achievement-With%20Excellence-2563EB?style=flat-square" />
-
-</div>
+<img src="https://img.shields.io/badge/BATCH-06-7E22CE?style=flat-square" />
+<img src="https://img.shields.io/badge/ACHIEVEMENT-EXCELLENCE-A855F7?style=flat-square" />
 
 **Issuing Organization:** Programming Hero
 
-**Technologies Covered:**
+**Covered Technologies:**
+- HTML & CSS
 - JavaScript
-- HTML
-- CSS
 - React
 - Web Development Fundamentals
 
----
+</div>
 
-## `06` / GitHub Analytics
+---
 
 <div align="center">
 
-<img width="100%" src="./github-metrics.svg" alt="Fahmidur Arnob GitHub Metrics" />
+### ◈ GITHUB ANALYTICS // 006
+
+`DEVELOPER ACTIVITY MONITOR`
+
+<img width="100%" src="./github-metrics.svg" alt="GitHub Metrics Dashboard" />
 
 </div>
 
 ---
 
-## `07` / Beyond The Code
-
 <div align="center">
 
-I believe software engineering is a continuous journey.
-
-**Learn → Build → Experiment → Debug → Improve**
-
-Every project is an opportunity to understand something deeper, solve a new problem, and become a better developer.
+### ◈ DEVELOPER PHILOSOPHY // 007
 
 </div>
 
+```text
+    LEARN
+      |
+      v
+    BUILD
+      |
+      v
+  EXPERIMENT
+      |
+      v
+    DEBUG
+      |
+      v
+   IMPROVE
+      |
+      v
+    REPEAT
+```
+
+I believe real development happens when we move beyond tutorials, build actual projects, face problems, and understand how things work under the hood.
+
 ---
 
-## `08` / Let's Connect
-
 <div align="center">
+
+### ◈ ESTABLISH CONNECTION // 008
+
+`OPEN TO COLLABORATION & OPPORTUNITIES`
+
+<br/>
+
+<a href="https://github.com/fahmidur-rahman-arnob">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=E9D5FF" />
+</a>
 
 <a href="https://www.linkedin.com/in/md-fahmidur-rahman-arnob/">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-7E22CE?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
 
-**Open to learning, collaboration, and new opportunities.**
+**BUILDING TODAY. ENGINEERING TOMORROW.**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0B3D91,100:2563EB&height=130&section=footer" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,40:3C096C,75:7B2CBF,100:A855F7&height=150&section=footer" />
 
 </div>

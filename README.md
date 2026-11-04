@@ -167,18 +167,21 @@ ADDITIONAL LEARNING
 - Technologies covered: JavaScript, HTML, CSS, React
 - Batch: 06
 
+
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fahmidur-rahman-arnob&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmidur-rahman-arnob&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="./github-metrics.svg"
+    alt="Fahmidur Arnob's GitHub Metrics"
+    width="100%"
+  />
 </p>
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=fahmidur-rahman-arnob&theme=tokyonight&hide_border=true" />
-</p>
+---
+
 
 ---
 

@@ -203,7 +203,7 @@ I don't just want to learn technologies. I want to understand how things work un
   <a href="https://github.com/fahmidur-rahman-arnob">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="https://www.linkedin.com/in/md-fahmidur-rahman-arnob/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>

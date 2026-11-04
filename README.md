@@ -1,222 +1,217 @@
-# 👋 Hi, I'm Fahmidur Rahman Arnob
-
-### 💻 Software Engineering Student | Python & Backend Developer | MERN Practitioner
-
-I'm a Software Engineering student passionate about **backend development, problem solving, and building practical software projects**.
-
-I primarily work with **Python and FastAPI**, while currently expanding my full-stack development skills through **MERN Stack** practice.
-
-I enjoy learning by building projects, exploring APIs, working with databases, and turning ideas into functional applications.
-
----
-
-## 🚀 About Me
-
-- 🎓 Software Engineering Student at **Daffodil International University**
-- 🐍 Focused on **Python & Backend Development**
-- ⚡ Currently learning and building with **FastAPI**
-- 🌐 Currently practicing **MERN Stack**
-- 🗄️ Exploring **SQL & PostgreSQL**
-- 🔧 Interested in APIs, backend systems, databases & software architecture
-- 🧠 Learning through real-world projects and problem solving
-- 💼 Open to **Backend / Software Engineering Internship Opportunities**
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-### ⚙️ Backend & Frameworks
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
-
-### 🌐 Frontend & MERN
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-### 🔧 Tools & Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
-</p>
-
----
-
-## 🚧 Currently Learning
-
-```text
-Python
-   │
-   ├── Problem Solving
-   ├── APIs & Automation
-   ├── FastAPI
-   └── Backend Development
-          │
-          ├── SQL
-          ├── PostgreSQL
-          └── System Design
-
-MERN Stack
-   │
-   ├── MongoDB
-   ├── Express.js
-   ├── React
-   └── Node.js
-```
-
-I'm currently focusing on becoming a stronger **backend developer** while also building practical experience with the **MERN ecosystem**.
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 TermTorrent
-
-> A terminal-based download manager inspired by applications like qBittorrent.
-
-**Focus:** Backend Architecture • CLI • Task Management • Download Systems
-
-Currently being developed as an advanced backend learning project.
-
----
-
-### 🔹 CodeSync
-
-> A backend-focused project built while learning APIs, HTTP communication and application logic.
-
-**Focus:** Python • REST APIs • API Integration • Backend Development
-
----
-
-### 🔹 AnimeStore
-
-> A FastAPI-based anime management and tracking application built progressively while learning backend development.
-
-**Focus:** FastAPI • Pydantic • PostgreSQL • CRUD • Database Relationships
-
----
-
-### 🔹 DriveDrop
-
-> A Python-based terminal application that uploads files directly to Google Drive using the Google Drive API and OAuth 2.0.
-
-**Focus:** Python • Google Drive API • OAuth 2.0 • API Integration
-
----
-
-## 🎓 Certification
-
-### 🏆 Complete Web Development Course — Programming Hero
-
-**Certificate of Completion with Excellence — Batch 06**
-
-Covered technologies include:
-
-- JavaScript
-- HTML
-- CSS
-- React
-- Web Development fundamentals
-- Project-based development
-
-> Successfully completed the course with excellence and built several projects throughout the learning process.
-
----
-
-## 📊 GitHub Stats
+# 👨‍💻 Fahmidur Arnob
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahmidur-rahman-arnob&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmidur-rahman-arnob&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Python+%7C+Backend+Development;MERN+Stack+Practitioner;Building+Projects+%26+Learning+Every+Day" alt="Typing SVG" />
 </p>
-
----
-
-## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fahmidur-rahman-arnob&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🧠 My Development Philosophy
-
-```text
-Learn → Build → Break → Debug → Improve → Repeat
-```
-
-I believe the best way to learn software engineering is not only by watching tutorials, but by **building projects, solving problems, making mistakes, and understanding why things work**.
-
----
-
-## 🎯 Current Goals
-
-- 🚀 Become a stronger **Backend Developer**
-- 🐍 Advance my **Python & FastAPI** skills
-- 🗄️ Improve **SQL & Database** knowledge
-- 🌐 Gain practical experience with the **MERN Stack**
-- 🧩 Build more challenging backend projects
-- 💼 Gain professional experience through an internship
-- 🌍 Continue growing as a software engineer
-
----
-
-## 🤝 Let's Connect
-
-<p>
   <a href="https://github.com/fahmidur-rahman-arnob">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  <!-- Replace YOUR-LINKEDIN-USERNAME with your actual LinkedIn username -->
-  <a href="https://www.linkedin.com/in/md-fahmidur-rahman-arnob/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <i>Building today. Learning every day. Becoming better with every project. 🚀</i>
+### `$ whoami`
+
+I'm a Software Engineering student who enjoys building practical applications, exploring backend technologies, and solving programming problems.
+
+My primary focus is **Python and Backend Development**, particularly API development, automation, and backend application architecture.
+
+Alongside Python, I'm actively practicing the **MERN Stack**, exploring TypeScript, and expanding my understanding of modern full-stack development.
+
+I believe in learning by building, experimenting, debugging, and continuously improving.
+
+---
+
+### ⚡ Developer Snapshot
+
+| | |
+|---|---|
+| 🎓 Education | Software Engineering |
+| 🐍 Primary Focus | Python & Backend Development |
+| ⚙️ Backend | FastAPI, Node.js, Express.js |
+| 🌐 Full Stack | MERN Stack |
+| 📚 Currently Practicing | MongoDB, TypeScript, MERN |
+| 🧠 Learning Approach | Project-Based Development |
+| 🎯 Career Goal | Backend / Software Engineering |
+
+---
+
+### 🛠️ Technology Arsenal
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
 </p>
 
-<!--
-**fahmidur-rahman-arnob/fahmidur-rahman-arnob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend & Frameworks**
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+**Tools & Environment**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+#### 01. TermTorrent
+**A Terminal-Based Download Manager**
+
+A qBittorrent-inspired terminal application focused on download task management and backend engineering concepts.
+
+- CLI-based task management
+- Task creation and tracking
+- Persistent task storage
+- Structured application development
+
+`Python` `CLI` `Backend Development`
+
+[View Repository](https://github.com/fahmidur-rahman-arnob/TermTorrent)
+
+---
+
+#### 02. CodeSync
+**API Integration & Backend Development**
+
+A project-driven development journey focused on API communication, HTTP requests, JSON processing, and backend programming.
+
+- Working with external APIs
+- HTTP response handling
+- JSON data processing
+- Modular Python logic
+
+`Python` `Requests` `REST APIs`
+
+[Explore GitHub](https://github.com/fahmidur-rahman-arnob)
+
+---
+
+#### 03. DriveDrop
+**Google Drive File Upload Automation**
+
+A Python-based terminal application that uploads local files directly to Google Drive using its official API.
+
+- Google Drive API integration
+- OAuth 2.0 authentication
+- Local file handling
+- MIME type handling
+
+`Python` `Google Drive API` `OAuth 2.0`
+
+[View Repository](https://github.com/fahmidur-rahman-arnob/DriveDrop)
+
+---
+
+### 📖 Currently Exploring
+
+I'm continuously expanding my development skills through practical implementation.
+
+```text
+PYTHON & BACKEND
+├── Python
+├── FastAPI
+├── API Development
+└── Backend Architecture
+
+MERN STACK
+├── MongoDB
+├── Express.js
+├── React
+└── Node.js
+
+ADDITIONAL LEARNING
+├── TypeScript
+├── SQL
+├── Database Concepts
+└── Software Engineering Practices
+```
+
+**Current priorities:**
+- Improving Python problem-solving and programming logic.
+- Building more advanced backend applications.
+- Practicing MongoDB and database integration.
+- Developing full-stack applications using MERN.
+- Learning TypeScript for more structured JavaScript development.
+
+---
+
+### 🏆 Certifications
+
+**Complete Web Development Course — Programming Hero**
+
+<p>
+  <img src="https://img.shields.io/badge/Programming%20Hero-Batch%2006-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Completion-With%20Excellence-D4A017?style=for-the-badge" />
+</p>
+
+- Course: Complete Web Development
+- Organization: Programming Hero
+- Achievement: Certificate of Completion with Excellence
+- Technologies covered: JavaScript, HTML, CSS, React
+- Batch: 06
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fahmidur-rahman-arnob&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmidur-rahman-arnob&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=fahmidur-rahman-arnob&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 💡 My Development Mindset
+
+```python
+while True:
+    learn()
+    build()
+    experiment()
+    debug()
+    improve()
+```
+
+I don't just want to learn technologies. I want to understand how things work under the hood and use that knowledge to build meaningful software.
+
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/fahmidur-rahman-arnob">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Consistency beats perfection. Build, learn, and keep moving forward."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=100&section=footer" />
+</p>

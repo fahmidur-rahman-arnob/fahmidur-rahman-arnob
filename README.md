@@ -1,185 +1,179 @@
- <!--
-  ╔══════════════════════════════════════════════════════╗
-  ║          FAHMIDUR ARNOB | GITHUB PROFILE             ║
-  ║               MODERN TECH PORTFOLIO                  ║
-  ╚══════════════════════════════════════════════════════╝
+<!--
+  FAHMIDUR ARNOB | GITHUB PROFILE
+  Stylish Edition
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:020617,50:0B3D91,100:2563EB&text=FAHMIDUR%20ARNOB&fontSize=55&fontColor=FFFFFF&fontAlignY=45&desc=Building%20Ideas%20Into%20Software&descSize=18&descAlignY=65&animation=fadeIn" width="100%" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Python+%26+Backend+Development;MERN+Stack+Practitioner;Exploring+TypeScript+%26+Modern+Web+Technologies;Building+Projects+%7C+Learning+%7C+Growing" />
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,50:0B3D91,100:2563EB&text=FAHMIDUR%20ARNOB&fontSize=58&fontColor=FFFFFF&fontAlignY=42&desc=Building%20Ideas%20Into%20Software&descSize=18&descAlignY=64&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/fahmidur-rahman-arnob">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&height=50&lines=Software+Engineering+Student;Python+%26+Backend+Development;FastAPI+%7C+REST+APIs+%7C+Automation;MERN+Stack+Practitioner;Learn+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Improve" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=fahmidur-rahman-arnob&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" />
+<a href="https://github.com/fahmidur-rahman-arnob"><img src="https://img.shields.io/badge/GitHub-fahmidur--rahman--arnob-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/md-fahmidur-rahman-arnob/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=fahmidur-rahman-arnob&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-22C55E?style=flat-square&logo=statuspage&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Backend%20Engineering-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/Learning-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 
 </div>
 
+<br/>
+
 ---
 
-## `01` / About Me
+## `01` &nbsp;/&nbsp; ⚡ About Me
 
-<img align="right" width="260" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" />
+<img align="right" width="240" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" />
 
-Hey! I'm **Fahmidur Arnob**, a Software Engineering student passionate about software development, backend engineering, and building practical applications.
+```python
+class Developer:
+    def __init__(self):
+        self.name     = "Fahmidur Arnob"
+        self.role     = "Software Engineering Student"
+        self.focus    = ["Python", "Backend Development", "REST APIs"]
+        self.learning = ["FastAPI", "TypeScript", "MERN Stack", "SQL & MongoDB"]
+        self.goal     = "Backend / Software Engineering opportunities"
 
-My primary development focus is **Python and Backend Development**. I enjoy working with APIs, automation, application logic, and exploring how software systems work behind the scenes.
+    def philosophy(self):
+        return "Learn → Build → Experiment → Debug → Improve"
+```
 
-I'm also actively practicing the **MERN Stack** and exploring TypeScript to expand my full-stack development capabilities.
-
-- 🎓 Software Engineering Student
-- 🐍 Python & Backend Development enthusiast
-- ⚡ Exploring FastAPI and REST APIs
-- 🌐 Practicing MERN Stack
-- 🧩 Learning TypeScript and database technologies
-- 🚀 Building practical, project-driven applications
-- 💼 Interested in Backend / Software Engineering opportunities
+I'm passionate about **backend engineering** and building practical, project-driven applications. I enjoy APIs, automation and understanding how software works behind the scenes.
 
 <br clear="right"/>
 
 ---
 
-## `02` / Tech Stack
+## `02` &nbsp;/&nbsp; 🛠️ Tech Stack
 
 <div align="center">
 
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" />
-
-### Backend & Frameworks
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react&theme=dark" />
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql&theme=dark" />
-
-### Tools & Development Environment
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+| Category | Technologies |
+|:---:|:---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 </div>
 
 ---
 
-## `03` / What I'm Working On
+## `03` &nbsp;/&nbsp; 🎯 Current Focus
 
 <div align="center">
 
-| Area | Current Focus |
-|:---|:---|
-| 🐍 Python | Problem Solving & Application Development |
-| ⚡ Backend | FastAPI, APIs & Backend Architecture |
-| 🌐 MERN | MongoDB, Express.js, React & Node.js |
-| 🔷 TypeScript | Type-Safe JavaScript Development |
-| 🗄️ Database | MongoDB & SQL Concepts |
+| | Area | What I'm Working On |
+|:---:|:---|:---|
+| 🐍 | **Python** | Problem solving & application development |
+| ⚡ | **Backend** | FastAPI, REST APIs & backend architecture |
+| 🌐 | **MERN** | MongoDB, Express.js, React & Node.js |
+| 🔷 | **TypeScript** | Type-safe JavaScript development |
+| 🗄️ | **Database** | MongoDB & SQL concepts |
 
 </div>
 
 ---
 
-## `04` / Featured Projects
+## `04` &nbsp;/&nbsp; 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### ⚡ Projects That Reflect My Journey
+### 📥 TermTorrent
+*Terminal-Based Download Manager*
 
-</div>
+A qBittorrent-inspired terminal app focused on task management and persistent storage.
 
-### 01. TermTorrent
+- CLI task management
+- Status tracking
+- Persistent storage
+- Structured architecture
 
-**Terminal-Based Download Manager**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-111827?style=flat-square&logo=gnubash&logoColor=white)
 
-A qBittorrent-inspired terminal application focused on task management, persistent storage, and backend application development.
+**[→ Repository](https://github.com/fahmidur-rahman-arnob/TermTorrent)**
 
-- CLI-based download task management
-- Task creation and status tracking
-- Persistent task storage
-- Structured application architecture
+</td>
+<td width="33%" valign="top">
 
-`Python` `CLI` `File Handling` `Backend Engineering`
+### 🔄 CodeSync
+*API Integration & Backend*
 
-[→ Explore Repository](https://github.com/fahmidur-rahman-arnob/TermTorrent)
-
----
-
-### 02. CodeSync
-
-**API Integration & Backend Development**
-
-A project-driven learning project exploring API communication, HTTP requests, JSON processing, and modular application logic.
+A learning project on API communication, HTTP requests, JSON processing and modular logic.
 
 - External API integration
 - HTTP response handling
 - JSON data processing
 - Modular Python functions
 
-`Python` `Requests` `REST APIs` `JSON`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 
-[→ Explore My GitHub](https://github.com/fahmidur-rahman-arnob)
+**[→ GitHub](https://github.com/fahmidur-rahman-arnob)**
 
----
+</td>
+<td width="33%" valign="top">
 
-### 03. DriveDrop
+### ☁️ DriveDrop
+*Google Drive Upload Automation*
 
-**Google Drive Upload Automation**
+A terminal app that uploads local files straight to Google Drive via the Drive API.
 
-A Python-based terminal application that uploads local files directly to Google Drive through the Google Drive API.
-
-- Google Drive API integration
+- Drive API integration
 - OAuth 2.0 authentication
 - Local file processing
-- Original file format preservation
+- Original format preserved
 
-`Python` `Google Drive API` `OAuth 2.0`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth%202.0-EB5424?style=flat-square)
+![Drive](https://img.shields.io/badge/Drive%20API-4285F4?style=flat-square&logo=googledrive&logoColor=white)
 
-[→ Explore Repository](https://github.com/fahmidur-rahman-arnob/DriveDrop)
+**[→ Repository](https://github.com/fahmidur-rahman-arnob/DriveDrop)**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `05` / Certification
+## `05` &nbsp;/&nbsp; 🏆 Certification
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/PROGRAMMING%20HERO-CERTIFIED-2563EB?style=for-the-badge&logo=bookstack&logoColor=white" />
 
-### Complete Web Development Course
-
-**Certificate of Completion with Excellence**
+**Complete Web Development Course: Certificate of Completion with Excellence**
 
 <img src="https://img.shields.io/badge/Batch-06-0EA5E9?style=flat-square" />
 <img src="https://img.shields.io/badge/Achievement-With%20Excellence-2563EB?style=flat-square" />
 
+<sub>JavaScript • HTML • CSS • React • Web Development Fundamentals</sub>
+
 </div>
-
-**Issuing Organization:** Programming Hero
-
-**Technologies Covered:**
-- JavaScript
-- HTML
-- CSS
-- React
-- Web Development Fundamentals
 
 ---
 
-## `06` / GitHub Analytics
+## `06` &nbsp;/&nbsp; 📊 GitHub Analytics
 
 <div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fahmidur-rahman-arnob&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=2563EB" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmidur-rahman-arnob&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fahmidur-rahman-arnob&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=38BDF8&currStreakLabel=38BDF8" width="80%" />
 
 <img width="100%" src="./github-metrics.svg" alt="Fahmidur Arnob GitHub Metrics" />
 
@@ -187,36 +181,35 @@ A Python-based terminal application that uploads local files directly to Google 
 
 ---
 
-## `07` / Beyond The Code
+## `07` &nbsp;/&nbsp; 🧭 My Learning Loop
+
+```mermaid
+flowchart LR
+    A([📚 Learn]) --> B([🔨 Build])
+    B --> C([🧪 Experiment])
+    C --> D([🐞 Debug])
+    D --> E([✨ Improve])
+    E -.-> A
+```
 
 <div align="center">
 
-I believe software engineering is a continuous journey.
-
-**Learn → Build → Experiment → Debug → Improve**
-
-Every project is an opportunity to understand something deeper, solve a new problem, and become a better developer.
+*Every project is a chance to understand something deeper and become a better developer.*
 
 </div>
 
 ---
 
-## `08` / Let's Connect
+## `08` &nbsp;/&nbsp; 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/fahmidur-rahman-arnob">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/md-fahmidur-rahman-arnob/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="https://github.com/fahmidur-rahman-arnob"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/md-fahmidur-rahman-arnob/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br/><br/>
 
 **Open to learning, collaboration, and new opportunities.**
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0B3D91,100:2563EB&height=130&section=footer" width="100%" />
 

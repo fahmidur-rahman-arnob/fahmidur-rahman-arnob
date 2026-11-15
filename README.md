@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:0F0C29,50:302B63,100:24C6DC&text=Fahmidur%20Arnob&fontSize=60&fontColor=FFFFFF&fontAlignY=40&desc=Backend%20Developer%20%7C%20Python%20%7C%20FastAPI%20%7C%20APIs%20%26%20Automation&descSize=18&descAlignY=62&animation=twinkling" width="100%" />
+<img src="./assets/banner.svg" width="100%" alt="Fahmidur Arnob - Backend Developer" />
 
 </div>
 
@@ -154,6 +154,6 @@ If you're hiring, or just want to talk APIs and Python, say hi.
 <a href="https://www.linkedin.com/in/md-fahmidur-rahman-arnob/"><img src="https://img.shields.io/badge/Message%20Me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/fahmidur-rahman-arnob"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24C6DC&height=120&section=footer" width="100%" />
+<img src="./assets/footer.svg" width="100%" alt="Let's build something great together" />
 
 </div>

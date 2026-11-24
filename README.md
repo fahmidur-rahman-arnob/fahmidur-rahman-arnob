@@ -1,5 +1,3 @@
-GitHub readme techy :
-
  <!--
   ╔══════════════════════════════════════════════════════╗
   ║          FAHMIDUR ARNOB | GITHUB PROFILE             ║
